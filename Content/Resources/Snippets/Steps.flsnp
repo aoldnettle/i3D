@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <ol>
+            <li>
+                <p>Assemble topics for output.</p>
+            </li>
+            <li>
+                <p>Create topics.</p>
+            </li>
+            <li>
+                <p>Build!</p>
+            </li>
+        </ol>
+    </body>
+</html>
